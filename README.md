@@ -1,1 +1,1 @@
-# GoviKo.github.io
+# goviko.github.io
